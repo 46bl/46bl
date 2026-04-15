@@ -1,16 +1,26 @@
-## Hi there 👋
+hey
 
-<!--
-**46bl/46bl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i like breaking things to understand them
+cybersecurity / software / whatever catches my interest
 
-Here are some ideas to get you started:
+python mostly
+learning rust
+js/ts when needed
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+bun, deno
+flask + gunicorn
+
+owner + developer @ pwn.lat  
+
+i build things
+- hardware (pcbs)
+- websites
+- random ideas that sometimes go nowhere
+
+gdscript / lua / luau sometimes
+
+---
+
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=46bl&theme=aura_dark) 
+
+support >> [donate](https://ko-fi.com/46blz)
