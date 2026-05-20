@@ -3,9 +3,7 @@ hey
 i like breaking things to understand them
 cybersecurity / software / whatever catches my interest
 
-python mostly
-learning rust
-js/ts when needed
+python mostly, learning rust, js/ts when needed
 
 bun, deno
 flask + gunicorn
